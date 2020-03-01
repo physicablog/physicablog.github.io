@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Physica</title>
+        <link>/posts/</link>
+        <description>Recent content in Posts on Physica</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Physica 2020</copyright>
+        <lastBuildDate>Sun, 01 Mar 2020 14:28:21 -0300</lastBuildDate>
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Intro</title>
+            <link>/posts/intro/</link>
+            <pubDate>Sun, 01 Mar 2020 14:28:21 -0300</pubDate>
+            
+            <guid>/posts/intro/</guid>
+            <description>oi smoek oi smoek.</description>
+            <content type="html"><![CDATA[<h1 id="oi-smoek">oi smoek</h1>
+<p>oi smoek.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
