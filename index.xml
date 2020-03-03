@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Physica 2020</copyright>
-    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 13:37:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introdução à Química</title>
+      <link>/posts/introducao/</link>
+      <pubDate>Mon, 02 Mar 2020 13:37:00 +0000</pubDate>
+      
+      <guid>/posts/introducao/</guid>
+      <description>Introdução à Química A química enquanto ciência é definida como o estudo da mudança na matéria. Temos como exemplo, o estudo do comportamento de átomos quando são submetidos a uma situação, como aumento de temperatura, pressão, ambiente, entre outros.
+História da Química/Alquimia Essa ciência se originou ainda no Egito Antigo, com a criação da Alquimia. Nessa época, o conceito de &amp;ldquo;matéria&amp;rdquo; já era &amp;ldquo;usado&amp;rdquo; pelos povos antigos, alguns arterfátos históricos revelam que os egípcios acreditavam que toda a matéria era constituída pelos 4 elementos: Água, Ar, Terra e Fogo.</description>
+    </item>
     
     <item>
       <title>Sobre nós</title>

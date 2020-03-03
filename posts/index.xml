@@ -6,8 +6,73 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Physica 2020</copyright>
-        <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2020 13:37:00 +0000</lastBuildDate>
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Introdução à Química</title>
+            <link>/posts/introducao/</link>
+            <pubDate>Mon, 02 Mar 2020 13:37:00 +0000</pubDate>
+            
+            <guid>/posts/introducao/</guid>
+            <description>Introdução à Química A química enquanto ciência é definida como o estudo da mudança na matéria. Temos como exemplo, o estudo do comportamento de átomos quando são submetidos a uma situação, como aumento de temperatura, pressão, ambiente, entre outros.
+História da Química/Alquimia Essa ciência se originou ainda no Egito Antigo, com a criação da Alquimia. Nessa época, o conceito de &amp;ldquo;matéria&amp;rdquo; já era &amp;ldquo;usado&amp;rdquo; pelos povos antigos, alguns arterfátos históricos revelam que os egípcios acreditavam que toda a matéria era constituída pelos 4 elementos: Água, Ar, Terra e Fogo.</description>
+            <content type="html"><![CDATA[<h2 id="introdução-à-química">Introdução à Química</h2>
+<p>A química enquanto ciência é definida como o estudo da mudança na matéria. Temos
+como exemplo, o estudo do comportamento de átomos quando são submetidos a uma
+situação, como aumento de temperatura, pressão, ambiente, entre outros.</p>
+<h3 id="história-da-químicaalquimia">História da Química/Alquimia</h3>
+<p>Essa ciência se originou ainda no Egito Antigo, com a criação da Alquimia. Nessa
+época, o conceito de &ldquo;matéria&rdquo; já era &ldquo;usado&rdquo; pelos povos antigos, alguns
+arterfátos históricos revelam que os egípcios acreditavam que toda a matéria era
+constituída pelos 4 elementos: Água, Ar, Terra e Fogo.
+Durante a Baixa Idade Média, no período cruzadista, a alquimia entrou em contato
+com os Europeus, assim desenvolvendo uma nova função: A busca pela vida eterna,
+transformação de metais em ouro, entre outros feitos &ldquo;milagrosos&rdquo;.
+No século XVII, a química se desprendeu dos conceitos da alquimia para se tornar
+uma ciência oficial, o responsável por esse feito foi Galileu Galilei</p>
+<h3 id="conceitos-iniciais">Conceitos Iniciais</h3>
+<p>A química se utiliza de alguns conceitos básicos para classificar a
+característica de algumas ações que são feitas com a matéria, modificando-o seu
+estado considerado natural e estável</p>
+<h4 id="elemento">Elemento</h4>
+<p>Um elemento químico é um conjunto de átomos que são do &ldquo;mesmo tipo&rdquo;, podemos
+citar o $\ce{O2}$, $\ce{O3}$, $\ce{Ca}$, entre outros. O número abaixo do
+elemento indica o número de átomos que o mesmo possuí</p>
+<h4 id="substância-química">Substância Química</h4>
+<p>Por outro lado, a substância química é o conjunto de elementos com propriedades
+químicas e físicas definidas, como densidade, ponto de ebulição e fusão, entre
+outros.</p>
+<ul>
+<li>
+<p>A substância química $\ce{H2O}$ é liquida em temperatura ambiente($25°c$), que
+em pressão de 1 $atm$ sofre ebulição à $100°c$ e fusão à $0°c$.</p>
+</li>
+<li>
+<p>Essa substância ainda sofreu uma união de 2 elementos para sua formação, temos
+$[\ce{2H + O -&gt; H2O}]$</p>
+</li>
+</ul>
+<p>Podemos ainda separar as substâncias em 2 tipos, simples e compostas</p>
+<ul>
+<li>Substâncias Simples/Pura: Formada por um único elemento, como $\ce{O2}$</li>
+<li>Substâncias Compostas: Formadas por mais de um elemento, como $\ce{NH3}$,
+$\ce{H2SO4}$, entre outras</li>
+</ul>
+<h4 id="mistura">Mistura</h4>
+<p>São formadas por 2 ou mais substâncias, seja elas compostas ou simples, que
+sejam diferentes entre si. Aqui, temos separado 2 características básica</p>
+<ul>
+<li>
+<p>Homogênea: Aparenta não ser uma mistura, ou seja, não opresenta fases
+visíveis, mas ainda é uma mistura</p>
+</li>
+<li>
+<p>Heterogêneo: Aparenta fases visíveis, como por exemplo, a água e o óleo</p>
+</li>
+</ul>
+]]></content>
+        </item>
         
         <item>
             <title>Sobre nós</title>
