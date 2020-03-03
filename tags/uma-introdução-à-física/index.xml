@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uma introdução à física on Physica</title>
+    <link>/tags/uma-introdu%C3%A7%C3%A3o-%C3%A0-f%C3%ADsica/</link>
+    <description>Recent content in Uma introdução à física on Physica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Physica 2020</copyright>
+    <lastBuildDate>Tue, 03 Mar 2020 18:26:30 -0300</lastBuildDate>
+    
+	<atom:link href="/tags/uma-introdu%C3%A7%C3%A3o-%C3%A0-f%C3%ADsica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introdução À Física</title>
+      <link>/posts/introducao-fisica/</link>
+      <pubDate>Tue, 03 Mar 2020 18:26:30 -0300</pubDate>
+      
+      <guid>/posts/introducao-fisica/</guid>
+      <description>O que é a física? A física é uma ciência divida em ramos (Óptica, Termologia, Acústica, Eletrecidade, entre outros) para que os fenômenos naturais que são bastante numerosos, sejam sistematicamente estudados.
+A física procura estudar, compreender e explicar os fenomenos da natureza, desde a formação e a dinâmica do universo até o funcionamento das menores partes do que chamamos de matéria como exemplo o atomo. A ampliação do conhecimento físico é de suma importância para a humanidade, este progresso juntamente com o desenvolvimento tecnológico, permitiu com que por exemplo, podessemos ampliar nosso conhecimento sobre o universo em que vivemos.</description>
+    </item>
+    
+  </channel>
+</rss>

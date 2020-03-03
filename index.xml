@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Physica 2020</copyright>
-    <lastBuildDate>Mon, 02 Mar 2020 13:37:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 18:26:30 -0300</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introdução À Física</title>
+      <link>/posts/introducao-fisica/</link>
+      <pubDate>Tue, 03 Mar 2020 18:26:30 -0300</pubDate>
+      
+      <guid>/posts/introducao-fisica/</guid>
+      <description>O que é a física? A física é uma ciência divida em ramos (Óptica, Termologia, Acústica, Eletrecidade, entre outros) para que os fenômenos naturais que são bastante numerosos, sejam sistematicamente estudados.
+A física procura estudar, compreender e explicar os fenomenos da natureza, desde a formação e a dinâmica do universo até o funcionamento das menores partes do que chamamos de matéria como exemplo o atomo. A ampliação do conhecimento físico é de suma importância para a humanidade, este progresso juntamente com o desenvolvimento tecnológico, permitiu com que por exemplo, podessemos ampliar nosso conhecimento sobre o universo em que vivemos.</description>
+    </item>
     
     <item>
       <title>Introdução à Química</title>

@@ -6,8 +6,89 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Physica 2020</copyright>
-        <lastBuildDate>Mon, 02 Mar 2020 13:37:00 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2020 18:26:30 -0300</lastBuildDate>
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Introdução À Física</title>
+            <link>/posts/introducao-fisica/</link>
+            <pubDate>Tue, 03 Mar 2020 18:26:30 -0300</pubDate>
+            
+            <guid>/posts/introducao-fisica/</guid>
+            <description>O que é a física? A física é uma ciência divida em ramos (Óptica, Termologia, Acústica, Eletrecidade, entre outros) para que os fenômenos naturais que são bastante numerosos, sejam sistematicamente estudados.
+A física procura estudar, compreender e explicar os fenomenos da natureza, desde a formação e a dinâmica do universo até o funcionamento das menores partes do que chamamos de matéria como exemplo o atomo. A ampliação do conhecimento físico é de suma importância para a humanidade, este progresso juntamente com o desenvolvimento tecnológico, permitiu com que por exemplo, podessemos ampliar nosso conhecimento sobre o universo em que vivemos.</description>
+            <content type="html"><![CDATA[<h1 id="o-que-é-a-física">O que é a física?</h1>
+<p>A física é uma ciência divida em ramos (Óptica, Termologia,
+Acústica, Eletrecidade, entre outros) para que os fenômenos naturais que são
+bastante numerosos, sejam sistematicamente estudados.</p>
+<p>A física procura estudar, compreender e explicar os fenomenos da natureza, desde
+a formação e a dinâmica do universo até o funcionamento das menores partes do que chamamos de
+matéria como exemplo o atomo.
+A ampliação do conhecimento físico é de suma importância para a humanidade,
+este progresso juntamente com o desenvolvimento tecnológico, permitiu com que
+por exemplo, podessemos ampliar nosso conhecimento sobre o universo em que
+vivemos.</p>
+<h2 id="o-universo">O universo</h2>
+<p>Todos os <strong>corpos</strong> existentes na natureza são quantidades definidas de matéria,
+por exemplo, a madeira é matéria e uma mesa de madeira é um corpo; a borracha é
+matéria e um pneu de borracha é um corpo.</p>
+<p>A matéria e, portanto todos os corpos do universo são constituidos por pequenas
+unidades denominadas <strong>atomos</strong>.
+Os atomos não podem ser vistos, nem com os microscopios mais sofsticados, porém
+os cientistas criaram <strong>modelos</strong> que dentro de limites, consegue explicar a
+concepção do atomo.
+Dentre estes modelos, um dos mais simples estabelece que cada atomo é
+constituido de um nucleo central, formado por dois tipos de particulas, os
+<strong>protons</strong> e os <strong>neutrons</strong> e, pela eletrosfera, constituida por <strong>eletrons</strong>
+que giram em torno do núcleo.
+Além destas particulas citadas, há muitas outras como, mésons, neutrinos, entre
+outras.</p>
+<p>O campo da física abraange todo o universo: desde a escala microscopia até a
+macroscopia, relacionada as galaxias, planetas, e estrelas.</p>
+<hr>
+<h1 id="física-e-matematica">Física e Matematica</h1>
+<p>A matemática ofere os meios para sintetizar o conhecimento sobre fenomenos
+estudados na Física. Uma formula matematica que relaciona as grandezas
+envolvidas em um fenômeno físico contribui para a compreensão desse fenomeno,
+pois revela a dependencia entre essas grandezas.
+Entendido o fenômeno físico e analisadas suas grandezas, recorre-se à Matematica
+para sintetizar o estudo realizado.</p>
+<p>Por exemplo, apesar de ser necessaria uma longa explicação para chegar ao fato
+que a energia de um corpo em movimento depende de sua massa e de sua velocidade,
+recorrendo à Matematica, obtemos a fórmula:
+$$
+E_{c} = \frac{mv^{2}}{2}
+$$
+em que $$E_{c}$$ é a energia cinética; m, a massa; e v, a velocidade.
+Essa formula indica que a energia cinética varia em função da massa do corpo e
+do quadrado de sua velocidade.</p>
+<h2 id="método-em-física">Método em física</h2>
+<p>Um dos processos de aquisição de conhecimento é o denominado <strong>método
+cientifico</strong> ou experimental, que apresenta uma sequencia rígida de etapas.
+Esse metodo é discutivel, pois estabelece uma receita definida de passos a ser
+seguida, o que nem é sempre possivel.</p>
+<p>Em carater historico, de modo simplificado o metodo cientifico consiste em</p>
+<blockquote>
+<p>Observar o fenomeno
+Nesta etapa, destaca-se fatos notaveis, com uso de instrumentos de medição
+medem-se as principais grandezas envolvidas no fenomeno.</p>
+</blockquote>
+<blockquote>
+<p>Procura-se alguma relação entre as grandezas.
+Após a primeira etapa, é feita a procura por alguma relação entre estas
+grandezas, na tentativa de descobrir alguma lei ou principio que descreva o
+fenomeno.
+Muitas vezes essas leis // principios são expressos por formulas, como a da
+energia cinetica.</p>
+</blockquote>
+<p>No processo de pesquisa que pode resultar em descobertas cientificas, o
+cientista não costuma seguir regras previamente estabelecidas.
+Um bom exemplo disso, é a descoberta feita por Albert Einstein de que a luz
+sofreria desvios em sua trajetória na proximidade de grandes massas, elaborada a
+partir do desenvolvimento matematico da Teoria da Relatividade Geral, publicada
+em 1915.</p>
+]]></content>
+        </item>
         
         <item>
             <title>Introdução à Química</title>

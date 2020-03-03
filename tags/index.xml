@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Physica 2020</copyright>
+    <lastBuildDate>Tue, 03 Mar 2020 18:26:30 -0300</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Uma introdução à física</title>
+      <link>/tags/uma-introdu%C3%A7%C3%A3o-%C3%A0-f%C3%ADsica/</link>
+      <pubDate>Tue, 03 Mar 2020 18:26:30 -0300</pubDate>
+      
+      <guid>/tags/uma-introdu%C3%A7%C3%A3o-%C3%A0-f%C3%ADsica/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
