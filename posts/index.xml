@@ -46,7 +46,7 @@ outras.</p>
 <p>O campo da física abraange todo o universo: desde a escala microscopia até a
 macroscopia, relacionada as galaxias, planetas, e estrelas.</p>
 <hr>
-<h1 id="física-e-matematica">Física e Matematica</h1>
+<h1 id="física-e-matemática">Física e Matemática</h1>
 <p>A matemática ofere os meios para sintetizar o conhecimento sobre fenomenos
 estudados na Física. Uma formula matematica que relaciona as grandezas
 envolvidas em um fenômeno físico contribui para a compreensão desse fenomeno,
@@ -56,9 +56,7 @@ para sintetizar o estudo realizado.</p>
 <p>Por exemplo, apesar de ser necessaria uma longa explicação para chegar ao fato
 que a energia de um corpo em movimento depende de sua massa e de sua velocidade,
 recorrendo à Matematica, obtemos a fórmula:
-$$
-E_{c} = \frac{mv^{2}}{2}
-$$
+$$E_{c} = \frac{mv^{2}}{2}$$
 em que $$E_{c}$$ é a energia cinética; m, a massa; e v, a velocidade.
 Essa formula indica que a energia cinética varia em função da massa do corpo e
 do quadrado de sua velocidade.</p>
