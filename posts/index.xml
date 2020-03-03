@@ -81,23 +81,29 @@ visíveis, mas ainda é uma mistura</p>
             
             <guid>/posts/sobre-os-criadores/</guid>
             <description>Somos estudantes do Ensino Médio Regular apaixonados por Ciências da Natureza e demais e Exatas, construindo esse blog com o objetivo único de abranger conhecimentos de física/biologia/química básica em um site simples
-Perguntas Frequentes Vocês já concluirão o Ensino Médio?
- Não  Vocês pretendem fazer uma versão do site em Inglês ou em outra língua estrangeira
- Talvez, porém meu inglês escrito ainda não é muito bom para criar artigos mais &amp;ldquo;complexos&amp;rdquo;  Vocês irão cobrir a área de humanas</description>
+Perguntas Frequentes  Vocês já concluiram o Ensino Médio?
+  Não   Vocês pretendem fazer uma versão do site em Inglês ou em outra língua estrangeira
+  Talvez, porém meu inglês escrito ainda não é muito bom para criar artigos mais &amp;ldquo;complexos&amp;rdquo;   Vocês irão cobrir a área de humanas</description>
             <content type="html"><![CDATA[<p>Somos estudantes do Ensino Médio Regular apaixonados por Ciências da Natureza e
 demais e Exatas, construindo esse blog com o objetivo único de abranger
 conhecimentos de física/biologia/química básica em um site simples</p>
 <h3 id="perguntas-frequentes">Perguntas Frequentes</h3>
-<p><strong>Vocês já concluirão o Ensino Médio?</strong></p>
+<blockquote>
+<p>Vocês já concluiram o Ensino Médio?</p>
+</blockquote>
 <ul>
 <li>Não</li>
 </ul>
-<p><strong>Vocês pretendem fazer uma versão do site em Inglês ou em outra língua estrangeira</strong></p>
+<blockquote>
+<p>Vocês pretendem fazer uma versão do site em Inglês ou em outra língua estrangeira</p>
+</blockquote>
 <ul>
 <li>Talvez, porém meu inglês escrito ainda não é muito bom para criar artigos mais
 &ldquo;complexos&rdquo;</li>
 </ul>
-<p><strong>Vocês irão cobrir a área de humanas</strong></p>
+<blockquote>
+<p>Vocês irão cobrir a área de humanas</p>
+</blockquote>
 <ul>
 <li>Não</li>
 </ul>
